@@ -1,0 +1,7 @@
+{   
+  "message": "Hello guys", 
+  "login": {
+    "username": "User Name",
+    "password": "Password"
+  }
+}
